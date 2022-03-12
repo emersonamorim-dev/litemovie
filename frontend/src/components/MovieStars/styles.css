@@ -1,0 +1,10 @@
+.ltmovie-stars-container {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ltmovie-stars-container svg {
+    width: 22px;
+    height: auto;
+}
