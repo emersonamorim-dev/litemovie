@@ -1,4 +1,3 @@
-import { type } from 'os';
 import { useParams } from 'react-router-dom';
 import FormCard from 'components/FormCard';
 
