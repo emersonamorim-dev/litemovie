@@ -8,7 +8,7 @@ function NavBar(){
     <nav className="container">
         <div className="ltmovie-nav-content">
             <h1>LiteMovie</h1>
-            <a href="https://github.com/emersonrockman" target="_blank" rel="noreferrer">
+            <a href="https://www.skydev.digital/" target="_blank" rel="noreferrer">
                 <div className="ltmovie-contact-container">
                     <GithubIcon />
                     <p className="ltmovie-contact-link">/litemovie</p>
